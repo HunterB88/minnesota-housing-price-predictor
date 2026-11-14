@@ -80,7 +80,7 @@ The project includes a live Matplotlib dashboard displaying:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minnesota-housing-price-predictor.git
+git clone https://github.com/HunterB88/minnesota-housing-price-predictor.git
 
 cd minnesota-housing-price-predictor
 ```
