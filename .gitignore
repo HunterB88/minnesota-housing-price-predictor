@@ -1,12 +1,13 @@
-# Virtual environment
+# Python environment
 .venv/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
-
-# Testing cache
 .pytest_cache/
 
-# macOS files
+# Downloaded datasets
+data/*.csv
+
+# macOS
 .DS_Store
